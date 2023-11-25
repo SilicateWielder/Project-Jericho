@@ -1,0 +1,7 @@
+author=CodeCreamery
+description=City-Sim viability test.
+name=Jericho
+screen_height=640
+screen_width=480
+script=main.js
+
