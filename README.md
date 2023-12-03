@@ -1,5 +1,5 @@
 # Project-Jericho
-TL;DR: This is a code-named, City-builder feasibility test.
+TL;DR: This is a code-named, City-builder feasibility test. Intended to run under Sphere 1.5 with web-support planned.
 
 Long version:
 
